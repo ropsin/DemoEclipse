@@ -24,7 +24,7 @@ public class Addition {
 		System.out.println("Enter the 2nd number:");
 		double b=scn.nextDouble();
 		Add(a,b);
-		System.out.println("Main Ends");
+		System.out.println("Main Ends....");
 		
 		scn.close();	
 		
