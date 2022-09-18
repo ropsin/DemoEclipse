@@ -10,9 +10,9 @@ public class Addition {
 	double prod=a*b;
 	System.out.println("Product=" +prod);
 	double div=a/b;
-	System.out.println("Quotient if 1st number is divided by the 2nd number=" +div);
+	System.out.println("Quotient if 1st number is divided by the 2nd number =" +div);
 	double mod=a%b;
-	System.out.println("Remainder if 1st number is divided by the 2nd number=" +mod);
+	System.out.println("Remainder if 1st number is divided by the 2nd number =" +mod);
 	
 	}
 
